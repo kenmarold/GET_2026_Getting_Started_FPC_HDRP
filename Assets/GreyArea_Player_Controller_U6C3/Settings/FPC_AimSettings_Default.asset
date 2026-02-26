@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed486be6cbd8d634ab85940c9bb5e729, type: 3}
+  m_Name: FPC_AimSettings_Default
+  m_EditorClassIdentifier: Assembly-CSharp::GreyArea.FPC.U6C3.AimSettings
+  normalFov: 75
+  aimFov: 60
+  fovLerpSpeed: 12
+  tpsNormalShoulderX: 0.5
+  tpsAimShoulderX: 0.2
+  shoulderLerpSpeed: 12
