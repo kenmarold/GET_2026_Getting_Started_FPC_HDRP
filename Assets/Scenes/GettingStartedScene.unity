@@ -34859,7 +34859,7 @@ GameObject:
   - component: {fileID: 432432461}
   - component: {fileID: 432432460}
   m_Layer: 0
-  m_Name: Sky and Fog Volume
+  m_Name: Global Volume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
