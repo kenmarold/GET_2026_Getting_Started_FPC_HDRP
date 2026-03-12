@@ -113,7 +113,7 @@ MonoBehaviour:
     m_Value: 50
   m_ClampValue:
     m_OverrideState: 1
-    m_Value: 100
+    m_Value: 100.81
   mode:
     m_OverrideState: 1
     m_Value: 1
