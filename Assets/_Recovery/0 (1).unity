@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.ProbeVolumePerSceneData
   serializedBakingSet: {fileID: 0}
-  sceneGUID: 9d8b4e63816117f46a00b6b99ee1d09f
+  sceneGUID: 13df9c125474a6941ad95b92d3d60a1a
   obsoleteAsset: {fileID: 0}
   obsoleteCellSharedDataAsset: {fileID: 0}
   obsoleteCellSupportDataAsset: {fileID: 0}
@@ -74581,7 +74581,7 @@ Light:
   m_BounceIntensity: 19.7
   m_ColorTemperature: 6570
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 6.4654115e-27, y: 1.102088e-39, z: 2.9988e-41, w: 3172.3918}
+  m_BoundingSphereOverride: {x: 6.4623485e-27, y: 2.846962e-39, z: 2.8613e-41, w: 204069.19}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
@@ -81245,7 +81245,7 @@ Light:
   m_Type: 2
   m_Color: {r: 0, g: 1, b: 0.6460881, a: 1}
   m_Intensity: 0.7999999
-  m_Range: 35.53
+  m_Range: 9.6
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize2D: {x: 0.5, y: 0.5}
@@ -81289,7 +81289,7 @@ Light:
   m_BounceIntensity: 1.81
   m_ColorTemperature: 6832
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 9.8607613e-32, y: 6.15304e-39, z: 7.851e-42, w: 785.0214}
+  m_BoundingSphereOverride: {x: 4.5907e-41, y: 0, z: 0, w: -3.680538e-19}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
