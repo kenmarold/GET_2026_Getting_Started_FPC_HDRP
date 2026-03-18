@@ -85004,7 +85004,7 @@ GameObject:
   - component: {fileID: 1006955279}
   - component: {fileID: 1006955278}
   m_Layer: 0
-  m_Name: Fog Zone 1
+  m_Name: Local Fog Zone 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
