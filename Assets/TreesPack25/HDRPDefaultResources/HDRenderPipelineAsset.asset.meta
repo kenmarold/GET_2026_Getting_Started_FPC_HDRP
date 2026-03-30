@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e46bf7bd7518fc64fa7b23878aadc3a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316777
+  packageName: Trees Pack 25 (HQ) (HDRP)
+  packageVersion: 1.0
+  assetPath: Assets/TreesPack25/HDRPDefaultResources/HDRenderPipelineAsset.asset
+  uploadId: 748173

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81196467273b94e448e08447ad57744c
+timeCreated: 1486932498
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Prefabs/SM_Rock_05_Snowy.prefab
+  uploadId: 163499

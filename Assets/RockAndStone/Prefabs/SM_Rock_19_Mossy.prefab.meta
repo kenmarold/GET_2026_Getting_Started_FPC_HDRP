@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ae21c1a5b6b88a4992391a290ed6da9
+timeCreated: 1487175164
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Prefabs/SM_Rock_19_Mossy.prefab
+  uploadId: 163499

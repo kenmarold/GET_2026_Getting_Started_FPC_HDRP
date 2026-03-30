@@ -1,0 +1,3 @@
+Wind usage:
+- add wind prefab to your scene;
+- add to wind values: leaves material and adjust power.

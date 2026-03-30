@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 968ad878f7ad0784eb236c8f7eb426d1
+timeCreated: 1486224209
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Scenes/DemoScene.unity
+  uploadId: 163499

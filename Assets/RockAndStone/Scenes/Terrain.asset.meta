@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44f8e8b5a34fa1d4ab74e4c0caf0e7df
+timeCreated: 1486224225
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Scenes/Terrain.asset
+  uploadId: 163499

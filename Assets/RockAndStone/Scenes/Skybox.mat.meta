@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec598728a5127e544b4642402c49a9a7
+timeCreated: 1487176652
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Scenes/Skybox.mat
+  uploadId: 163499

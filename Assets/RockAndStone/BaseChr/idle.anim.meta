@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a055eba3ca764944982c04c0be83e3d9
+timeCreated: 1479595508
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/BaseChr/idle.anim
+  uploadId: 163499

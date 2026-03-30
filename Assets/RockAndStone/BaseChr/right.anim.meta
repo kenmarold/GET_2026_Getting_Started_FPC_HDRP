@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af9f090c3204b274da988f0a7412cecd
+timeCreated: 1479595960
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/BaseChr/right.anim
+  uploadId: 163499

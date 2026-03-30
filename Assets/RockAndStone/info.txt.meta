@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 464521381bbe516408cbb00517a4740c
+timeCreated: 1487698088
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/info.txt
+  uploadId: 163499

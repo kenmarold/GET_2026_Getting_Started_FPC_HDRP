@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b3012e3b6f452d4b820f6ae6e7c0759
+timeCreated: 1487611661
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Scenes/DemoScene/LightingData.asset
+  uploadId: 163499

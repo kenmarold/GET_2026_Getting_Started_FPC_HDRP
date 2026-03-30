@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3298471155bb87940959492e6bc4b8bf
+timeCreated: 1486760185
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Models/Materials/M_Rock_14_Mossy.mat
+  uploadId: 163499

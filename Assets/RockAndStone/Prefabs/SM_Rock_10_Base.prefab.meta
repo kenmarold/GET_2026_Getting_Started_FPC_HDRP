@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7c874390fa6ad34bb99801ca2b1585a
+timeCreated: 1487014194
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Prefabs/SM_Rock_10_Base.prefab
+  uploadId: 163499

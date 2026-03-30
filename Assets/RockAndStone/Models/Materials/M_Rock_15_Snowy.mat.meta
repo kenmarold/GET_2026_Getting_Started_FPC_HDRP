@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7fdd449715134a468e0e53b5415b702
+timeCreated: 1486760185
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Models/Materials/M_Rock_15_Snowy.mat
+  uploadId: 163499

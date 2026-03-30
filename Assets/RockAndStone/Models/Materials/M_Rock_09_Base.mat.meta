@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbabcf7d14f2eb7499d65a8c4e0e7a0e
+timeCreated: 1486760185
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83612
+  packageName: Rocks and Stones Pack
+  packageVersion: 1.0
+  assetPath: Assets/RockAndStone/Models/Materials/M_Rock_09_Base.mat
+  uploadId: 163499
