@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b799570f1d290394792b20b16cc7b6c3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279447
+  packageName: Big Oak Tree (HDRP/URP)
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/Core/Scripts/Controller/Editor/ALP_ControllerGlobal.Editor.asmdef
+  uploadId: 783163

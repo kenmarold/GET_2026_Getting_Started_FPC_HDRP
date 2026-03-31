@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3d470418b4601e4d84f649f1950f6f6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279447
+  packageName: Big Oak Tree (HDRP/URP)
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/Core/Shaders/ReadMe.md
+  uploadId: 783163

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63f4e52f2bbfbdc4fafd6e0be934ca24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279447
+  packageName: Big Oak Tree (HDRP/URP)
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/Big Oak Tree/Settings/DiffusionProfile_HDRP/Billboard.asset
+  uploadId: 783163

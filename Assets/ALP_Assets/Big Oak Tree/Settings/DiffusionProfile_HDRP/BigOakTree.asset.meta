@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74c495859432e954b97174f2081d721b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279447
+  packageName: Big Oak Tree (HDRP/URP)
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/Big Oak Tree/Settings/DiffusionProfile_HDRP/BigOakTree.asset
+  uploadId: 783163

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eefe69fef52605848814486c34cdc98e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279447
+  packageName: Big Oak Tree (HDRP/URP)
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/Big Oak Tree/Settings/Volumes/SkyandFogSettingsProfile.asset
+  uploadId: 783163
